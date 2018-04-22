@@ -10,5 +10,5 @@ $nokk = $data3[1];
 //print(json_encode(array('src'=>'jnckmedia', 'result'=>$data4)));
 echo "JNCK MEDIA\n\n";
 echo "NIK : ".$nik."\n";
-echo "No. KK : ".$nokk;
+echo "No. KK : ".$nokk."\n";
 ?>
